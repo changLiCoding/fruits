@@ -17,7 +17,7 @@
 	},
 	"homepage": "https://github.com/javascriptsucks/fruits#readme",
 	"dependencies": {
-		"slugify": "^1.6.5"
+		"slugify": "~1.6.5"
 	},
 	"devDependencies": {
 		"nodemon": "^2.0.20"
